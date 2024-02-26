@@ -1,1 +1,1 @@
-httpswww.figma.comprotoBc6CQdo69gicnS2cSJY9SPHospital-management-system-apptype=design&node-id=45-133&t=rN23aYKoDzMWEzm0-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=45%3A133&mode=design
+https://www.figma.com/proto/Bc6CQdo69gicnS2cSJY9SP/Hospital-management-system-app?type=design&node-id=45-133&t=9CZU5l4OS1GZemL7-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=45%3A133&mode=design
